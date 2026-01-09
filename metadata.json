@@ -1,0 +1,5 @@
+{
+  "name": "Refactored ESL Visual Lesson Architect",
+  "description": "An AI-powered tool that converts raw text lesson plans into high-fidelity, interactive HTML5 learning objects using the Gemini API.",
+  "requestFramePermissions": []
+}
